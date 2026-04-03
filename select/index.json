@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ギルティ - Guilty",
+  "base_artist": "tuki.",
+  "createdAt": "2026-04-03T02:36:57.179751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Not Guilty = ノット・ギルティ",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/01_Not_Guilty_=_ノット・ギルティ_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Not Guilty = ノット・ギルティ",
+      "artist": "Adams, Bryan",
+      "has_synced": true,
+      "path": "select/02_Not_Guilty_=_ノット・ギルティ_Adams,_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ギルティ",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/03_ギルティ_すりぃ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ギルティ - Guilty",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/04_ギルティ_-_Guilty_tuki..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ギルティ - Guilty",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/05_ギルティ_-_Guilty_tuki..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ギルティ by スンヨン (Instrumental)",
+      "artist": "KARA",
+      "has_synced": false,
+      "path": "select/06_ギルティ_by_スンヨン_(Instrumental)_KARA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギルティ",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/pl_01_ギルティ_tuki..txt"
+    }
+  ]
+}
